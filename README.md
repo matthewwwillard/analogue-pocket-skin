@@ -4,6 +4,10 @@ An accurate template of the front of the Analogue Pocket for you to make your ow
 This Analogue Pocket skin template is provided in a number of file formats to make
 customizing your Pocket all that easier.
 
+## Community
+
+Want to share what you've made, or promote your for sale version? Make a PR! Would love to see how people use the template!
+
 ## Usage
 
 ### Front Skin
